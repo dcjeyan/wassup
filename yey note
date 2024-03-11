@@ -1,0 +1,24 @@
+<html>
+<head><title> yes yo </title> </head>
+<body>
+    <p id="pearls"> crush m0h b qho3?</p>
+
+    <script>
+
+        function alerto()
+        {alert('Warning! isa pang decline mo mavivirus pc mo te')}
+        
+        function pea()
+        {document.write('oki :3');}
+
+        function pea1()
+        {
+            document.getElementById("pearls").innerHTML="bawal inde yie :>"}
+    </script>
+
+    <button type="button"onclick="pea()">Yes</button>
+    <button type="button"onclick="pea1()">aYoq</button>
+    <button type="button"onclick="alerto()">ayoq nga sabe hmph</button>
+    
+    </body>
+    </html>
